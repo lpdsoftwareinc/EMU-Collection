@@ -1,12 +1,15 @@
 Requisiti Minimi 
+
 Windows 7 a 32 bit, Cpu Dual-Core 2.40 Ghz, Ram 2 GB, GPU 512 MB Directx 9, Spazio libero su Hard Disk 850 MB
 
 Requisiti Consigliati
+
 Windows 10 a 64 bit, Cpu Quad-Core 3.0 Ghz, Ram 8 GB, GPU 2 GB Directx 10, Spazio libero su Hard Disk 850 MB
 
 Gli emulatori indicati con (x64) funzionano esclusivamente su sistema operativo a 64 bit!
 
 Donazioni
+
 Perchè dovresti effettuare una donazione?
  
 Lo sviluppo del suddetto software ha richiesto un lavoro a tempo pieno nel corso degli anni.
