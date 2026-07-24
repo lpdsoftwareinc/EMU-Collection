@@ -1,8 +1,3 @@
-Avvertenze!
-Installando questa nuova release, perderai tutti i salvataggi/progressi fin'ora raggiunti con i tuoi giochi
-
-verrà effettuato un reset generale in modo da garantire un funzionamento ottimale degli emulatori
-
 Requisiti Minimi 
 Windows 7 a 32 bit, Cpu Dual-Core 2.40 Ghz, Ram 2 GB, GPU 512 MB Directx 9, Spazio libero su Hard Disk 850 MB
 
